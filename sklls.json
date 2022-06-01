@@ -1,2 +1,7 @@
-{"1" : "Terminal Git Bash",
-"2" : "Git add/commit"}
+{
+	"teams of course" : {
+	"1" : "Terminal Git Bash",
+	"2" : "Git add/commit",
+	"3" : "Git draw"
+	}
+}

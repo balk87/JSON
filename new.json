@@ -1,5 +1,7 @@
-{"Name" :"Nataly",
-"Surname" : "Lesniak",
-"Age" : "35",
-"Animals" : "1",
-"Salary" : "1000"}
+{
+	"Name" :"Nataly",
+        "Surname" : "Lesniak",
+        "Age" : "35",
+        "Animals" : "1",
+        "Salary" : "1000"
+}

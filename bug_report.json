@@ -1,2 +1,7 @@
-{"Button Close" : "Not available",
-"Log file" : "500 Error"}
+{
+	"Button" : "Open",
+	"details of bug" : {
+		"Error text" : "Not available",
+                "Log file" : "500 Error"
+	}
+}

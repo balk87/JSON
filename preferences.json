@@ -1,5 +1,7 @@
-{"Movie" : "What dreams make come",
-"Serial" : "Friends and Big Bang Theory",
-"Food" : "Can't choose",
-"Season of the year" : "Spring",
-"Country to visit" : "Italy"}
+{
+	"Movie" : "What dreams make come",
+        "Serial" : "Friends and Big Bang Theory",
+	"Food" : "Can't choose",
+	"Season of the year" : "Spring",
+	"Country to visit" : "Italy"
+}
