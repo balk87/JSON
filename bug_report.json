@@ -1,1 +1,7 @@
-
+{
+  "Bug_name":"Login"
+  "steps": {
+            "step_1":"click button",
+            "step_2":"enter login name"
+            }         
+}
